@@ -1,4 +1,4 @@
-# Hi, there! :wave:
+# Hi, there! 👋🏻
 
 ~~Get off my lawn!~~ Welcome to my profile page!
 
@@ -18,6 +18,6 @@ I'm a data scientist.
 
 ## Connect with me
 
-[![LinkedIn](https://raw.githubusercontent.com/ramtinz/ramtinz/master/soc/li.svg)](https://www.linkedin.com/in/rzm/)
+[![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/rzm/)
 
 ![Dino](https://raw.githubusercontent.com/ramtinz/ramtinz/master/dino.gif)
