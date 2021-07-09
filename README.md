@@ -22,4 +22,4 @@ I'm a data scientist.
 
 ![Dino](https://raw.githubusercontent.com/ramtinz/ramtinz/master/dino.gif)
 
-![Mycontribution](https://twitter.com/i/status/1413166119800745986)
+![snake gif](https://github.com/ramtinz/ramtinz/blob/output/github-contribution-grid-snake.gif)
