@@ -21,3 +21,5 @@ I'm a data scientist.
 [![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/rzm/)
 
 ![Dino](https://raw.githubusercontent.com/ramtinz/ramtinz/master/dino.gif)
+
+![Mycontribution](https://twitter.com/i/status/1413166119800745986)
