@@ -4,7 +4,7 @@
 
 # Stats
 
-I'm a data scientist.
+I'm a data scientist with focus on the application of machine learning to predict health-related outcomes based on a wide variety of health data including omics and clinical data.
 
 ## Most used languages
 
