@@ -16,7 +16,11 @@ I'm a data scientist with focus on the application of machine learning to predic
 
 ![Ramtin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramtinz&count_private=true&show_icons=true&hide_title=true&hide_border=true&bg_color=ffffff00&text_color=666666)
 
-## Connect with me
+## Docker
+
+[![Docker](https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2014/05/homepage-docker-logo.png?itok=zx0e-vcP](https://hub.docker.com/u/ramtinzm)
+
+## Get in touch
 
 [![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/rzm/)
 
