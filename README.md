@@ -4,7 +4,7 @@
 
 # Stats
 
-I'm a data scientist with focus on the application of machine learning to predict health-related outcomes based on a wide variety of biological and health data including omics and clinical data. This is my personal page and my work-related repos are not available here.
+I'm a data scientist with focus on the application of machine learning to predict health-related outcomes based on a wide variety of biological data including omics and clinical data. This page includes some of my personal coding activities.
 
 ## Most used languages
 
