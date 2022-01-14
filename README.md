@@ -18,7 +18,7 @@ I'm a data scientist with focus on the application of machine learning to predic
 
 ## Docker
 
-[![Docker](https://www.clipartmax.com/png/small/146-1469802_logo-logo-docker.png](https://hub.docker.com/u/ramtinzm)
+[![Docker](https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ)](https://hub.docker.com/u/ramtinzm)
 
 ## Get in touch
 
