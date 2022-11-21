@@ -4,17 +4,7 @@
 
 # Stats
 
-I'm a data scientist with focus on the application of machine learning to predict health-related outcomes based on a wide variety of biological data including omics and clinical data. This page includes some of my personal coding activities.
-
-## Most used languages
-
-### By committed code (personal repositories, only)
-
-![Ramtin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramtinz&langs_count=8&layout=compact&hide_title=true&hide_border=true&bg_color=ffffff00&text_color=666666)
-
-## My GitHub stats
-
-![Ramtin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramtinz&count_private=true&show_icons=true&hide_title=true&hide_border=true&bg_color=ffffff00&text_color=666666)
+I'm a data scientist with focus on machine learning to predict health-related outcomes based on a wide variety of biological data including omics and clinical data. This page includes some of my personal coding activities.
 
 ## Docker
 
