@@ -1,7 +1,29 @@
 <!-- Animated Intro -->
 <div id="intro">
-  <h1>Welcome to my GitHub page!</h1>
+  <h1>Welcome to my GitHub page! 😊</h1>
+  <img src="https://uploads-ssl.webflow.com/5fb6c252e33b3144381be0e5/604ed089b730b75b197c8393_IMG_1619.PNG" alt="AI Meme">
 </div>
+
+#intro {
+  opacity: 0;
+  animation: fadein 2s;
+}
+
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+// Wait for page to load
+window.onload = function() {
+  // Fade in intro
+  var intro = document.getElementById("intro");
+  intro.style.opacity = 1;
+}
 
 
 # Hi, there! 👋🏻
