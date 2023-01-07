@@ -2,8 +2,15 @@
 
 As a data scientist, my focus is on using machine learning to predict health-related outcomes based on a wide variety of biological data, including omics and clinical data. On this GitHub page, you will find some of my personal coding projects and activities. I am passionate about using data science to improve healthcare outcomes and am excited to share my work with the community. Thank you for visiting my page!
 
+<html>
+<body>
+
 <!-- Google Scholar Summary -->
 <iframe src="https://scholar.google.com/citations?user=3-pFVNQAAAAJ&hl=en" width="100%" height="400"></iframe>
+
+</body>
+</html>
+
 
 
 <!-- GitHub Activity -->
