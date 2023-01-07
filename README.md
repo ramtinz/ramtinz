@@ -20,7 +20,7 @@ As a data scientist, my focus is on using machine learning to predict health-rel
 
 <!-- Link to ResearchGate Profile -->
 <a href="https://www.researchgate.net/profile/Ramtin-Zargari-Marandi">
-  <img src="https://www.researchgate.net/apple-touch-icon.png" alt="ResearchGate Profile" width="64" height="64">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate Profile" width="64" height="64">
 </a>
 
 ![Dino](https://raw.githubusercontent.com/ramtinz/ramtinz/master/dino.gif)
