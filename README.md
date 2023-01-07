@@ -23,7 +23,6 @@ As a data scientist, my focus is on using machine learning to predict health-rel
   <img src="https://www.researchgate.net/apple-touch-icon.png" alt="ResearchGate Profile" width="64" height="64">
 </a>
 
-
 ![Dino](https://raw.githubusercontent.com/ramtinz/ramtinz/master/dino.gif)
 
 ![mycontribution](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
