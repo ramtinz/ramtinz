@@ -9,7 +9,7 @@ As a data scientist, my focus is on using machine learning to predict health-rel
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramtinz&layout=compact" alt="Top Languages">
 
 <!-- ResearchGate Summary -->
-<iframe src="[https://www.researchgate.net/](https://www.researchgate.net/profile/Ramtin-Zargari-Marandi)" width="100%" height="400"></iframe>
+<iframe src="https://www.researchgate.net/profile/Ramtin-Zargari-Marandi" width="100%" height="400"></iframe>
 
 
 ## Get in touch
