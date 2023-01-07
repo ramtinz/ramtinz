@@ -6,10 +6,11 @@ As a data scientist, my focus is on using machine learning to predict health-rel
 <body>
 
 <!-- Google Scholar Summary -->
-<iframe src="https://scholar.google.com/citations?user=3-pFVNQAAAAJ&hl=en" width="100%" height="400"></iframe>
+<iframe src="https://scholar.google.com/citations?view_op=medium_sidebar&user=3-pFVNQAAAAJ" width="100%" height="400"></iframe>
 
 </body>
 </html>
+
 
 
 
