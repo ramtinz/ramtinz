@@ -4,31 +4,9 @@
   <img src="https://uploads-ssl.webflow.com/5fb6c252e33b3144381be0e5/604ed089b730b75b197c8393_IMG_1619.PNG" alt="AI Meme">
 </div>
 
-#intro {
-  opacity: 0;
-  animation: fadein 2s;
-}
-
-@keyframes fadein {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-
-// Wait for page to load
-window.onload = function() {
-  // Fade in intro
-  var intro = document.getElementById("intro");
-  intro.style.opacity = 1;
-}
-
-
 # Hi, there! 👋🏻
 
-As a data scientist, my focus is on using machine learning to predict health-related outcomes based on a wide variety of biological data, including omics and clinical data. On this GitHub page, you will find some of my personal coding projects and activities. I am passionate about using data science to improve healthcare outcomes and am excited to share my work with the community. Thank you for visiting my page!
+As a data scientist, my focus is on using machine learning to predict health-related outcomes based on a wide variety of biological data, including omics and clinical data. On this GitHub page, you will find some of my personal coding projects and activities. I'm passionate about using data science to improve healthcare outcomes and am excited to share my work with the community. Thank you for visiting my page!
 
 <!-- GitHub Activity -->
 <img src="https://github-readme-stats.vercel.app/api?username=ramtinz&show_icons=true" alt="GitHub Activity">
