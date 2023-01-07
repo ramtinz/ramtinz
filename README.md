@@ -1,5 +1,5 @@
-<!-- Animated Intro -->
-<div id="intro"  style="text-align: center;">
+<!-- Intro -->
+<div id="intro">
   <h1>Welcome to my GitHub page!</h1>
   <img src="https://uploads-ssl.webflow.com/5fb6c252e33b3144381be0e5/604ed089b730b75b197c8393_IMG_1619.PNG" alt="AI Meme">
 </div>
