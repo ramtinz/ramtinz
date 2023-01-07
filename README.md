@@ -8,10 +8,6 @@ As a data scientist, my focus is on using machine learning to predict health-rel
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramtinz&layout=compact" alt="Top Languages">
 
-<!-- ResearchGate Summary -->
-<iframe src="https://www.researchgate.net/profile/Ramtin-Zargari-Marandi" width="100%" height="400"></iframe>
-
-
 
 ## Get in touch
 
@@ -20,6 +16,11 @@ As a data scientist, my focus is on using machine learning to predict health-rel
 <!-- Link to Google Scholar Profile -->
 <a href="https://scholar.google.com/citations?user=3-pFVNQAAAAJ&hl=en">
   <img src="https://scholar.google.com/favicon.ico" alt="Google Scholar Profile" width="64" height="64">
+</a>
+
+<!-- Link to ResearchGate Profile -->
+<a href="https://www.researchgate.net/profile/Ramtin-Zargari-Marandi">
+  <img src="https://www.researchgate.net/apple-touch-icon.png" alt="ResearchGate Profile" width="64" height="64">
 </a>
 
 
