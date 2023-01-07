@@ -1,9 +1,3 @@
-<!-- Intro -->
-<div id="intro">
-  <h1>Welcome to my GitHub page!</h1>
-  <img src="https://uploads-ssl.webflow.com/5fb6c252e33b3144381be0e5/604ed089b730b75b197c8393_IMG_1619.PNG" alt="AI Meme">
-</div>
-
 # Hi! 👋🏻
 
 As a data scientist, my focus is on using machine learning to predict health-related outcomes based on a wide variety of biological data, including omics and clinical data. On this GitHub page, you will find some of my personal coding projects and activities. I'm passionate about using data science to improve healthcare outcomes and am excited to share my work with the community. Thank you for visiting my page!
