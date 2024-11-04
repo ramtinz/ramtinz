@@ -28,3 +28,8 @@ Connect with me on professional networks to explore my research, publications, a
 - **[ResearchGate](https://www.researchgate.net/profile/Ramtin-Zargari-Marandi):** Follow my latest research contributions and projects.
 
 
+<br>
+
+<p align="center">
+  <img src="dino.gif" alt="Get in touch animation" width="500">
+</p>
