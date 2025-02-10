@@ -1,6 +1,6 @@
 # Welcome
 
-I'm a researcher and data scientist specialized in developing advanced machine learning (ML) and artificial intelligence (AI) tools. My recent projects emphasize explainable AI and predictive modeling within biomedical and clinical research. You can explore a selection of my latest publicly available work at [PERSIMUNE’s GitHub repository](https://github.com/PERSIMUNE).
+You can explore some of my publicly available work at [PERSIMUNE’s GitHub repository](https://github.com/PERSIMUNE).
 
 <!-- GitHub Activity -->
 <img src="https://github-readme-stats.vercel.app/api?username=ramtinz&show_icons=true" alt="GitHub Activity">
