@@ -1,5 +1,6 @@
 # Welcome
 
+I design and build AI solutions.
 You can explore some of my publicly available work at [PERSIMUNE’s GitHub repository](https://github.com/PERSIMUNE).
 
 <!-- GitHub Activity -->
