@@ -1,13 +1,6 @@
 # Welcome
 
 I design and build AI solutions.
-You can explore some of my publicly available work at [PERSIMUNE’s GitHub repository](https://github.com/PERSIMUNE).
-
-<!-- GitHub Activity -->
-<img src="https://github-readme-stats.vercel.app/api?username=ramtinz&show_icons=true" alt="GitHub Activity">
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramtinz&layout=compact" alt="Top Languages">
 
 
 ## 📬 Get in Touch
